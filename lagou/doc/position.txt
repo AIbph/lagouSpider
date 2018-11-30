@@ -1,0 +1,450 @@
+{'position_salary': ['Python 开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州嘉云数据科技有限公司'], 'position_place': ['杭州', '西湖区', '古荡']}
+{'position_salary': ['Python工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['浙江天垂科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['python研发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州美登科技股份有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['Python 开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['新华三技术有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['python开发'], 'position_name': ['8k-12k '], 'position_conpay': ['杭州酷汇网络技术有限公司'], 'position_place': ['杭州', '西湖区', '古墩路']}
+{'position_salary': ['python开发工程师（余杭未...'], 'position_name': ['15k-25k '], 'position_conpay': ['武汉佰钧成技术有限责任公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['Python开发工程师(增长黑...'], 'position_name': ['15k-25k '], 'position_conpay': ['微点（杭州）网络科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['后端Python开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州当堂信息技术有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['Python开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州呯嘭智能技术有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['python编程老师（杭州）'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州编程少年教育科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['python开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州艾耕科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['高级Python开发工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['京东金融'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['Python工程师'], 'position_name': ['13k-25k '], 'position_conpay': ['浙江力太科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['Python开发工程师'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州沃趣科技股份有限公司'], 'position_place': []}
+{'position_salary': ['Python开发工程师'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州水行舟网络科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['Python开发工程师（数据方向）'], 'position_name': ['15k-20k '], 'position_conpay': ['杭州嘉云数据科技有限公司'], 'position_place': ['杭州', '西湖区', '古荡']}
+{'position_salary': ['Python Web 后端研发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州美登科技股份有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['Python开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州艾耕科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['高级python开发'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州默安科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['python开发工程师'], 'position_name': ['9k-15k '], 'position_conpay': ['北京通力互联技术服务有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['python开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州飞享数据技术有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['python开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['上海吸引子商务信息咨询有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['Python抓爬工程师'], 'position_name': ['8k-15k '], 'position_conpay': ['数立方（杭州）信息技术有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['Python开发工程师'], 'position_name': ['4k-8k '], 'position_conpay': ['成都微银合创科技有限公司'], 'position_place': ['杭州', '上城区']}
+{'position_salary': ['python'], 'position_name': ['13k-25k '], 'position_conpay': ['杭州深地信息科技有限公司'], 'position_place': ['杭州', '萧山区', '宁围']}
+{'position_salary': ['Python爬虫工程师'], 'position_name': ['12k-24k '], 'position_conpay': ['杭州书沸科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['高级python开发工程师'], 'position_name': ['13k-20k '], 'position_conpay': ['杭州恒生云融网络科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['python'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州康策网络科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['python'], 'position_name': ['4k-5k '], 'position_conpay': ['浙江筑梦信息科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['Python开发'], 'position_name': ['20k-40k '], 'position_conpay': ['浙江同花顺基金销售有限公司'], 'position_place': ['杭州', '余杭区', '西溪']}
+{'position_salary': ['数据开发专家 (Python)'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州嘉云数据科技有限公司'], 'position_place': ['杭州', '西湖区', '古荡']}
+{'position_salary': ['Python开发'], 'position_name': ['18k-30k '], 'position_conpay': ['杭州默安科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['python工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['北京通力互联技术服务有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['python/爬虫开发'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州康策网络科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['Python测试开发'], 'position_name': ['15k-25k '], 'position_conpay': ['北京闪银奇异科技有限公司'], 'position_place': ['杭州', '萧山区']}
+{'position_salary': ['Python后端工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州飞步科技有限公司'], 'position_place': ['杭州', '西湖区', '古墩路']}
+{'position_salary': ['高级Python开发工程师'], 'position_name': ['14k-28k '], 'position_conpay': ['杭州巴九灵文化创意股份有限公司'], 'position_place': ['杭州', '西湖区', '北山']}
+{'position_salary': ['后端Python开发工程师'], 'position_name': ['12k-20k '], 'position_conpay': ['杭州略懂科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['高级python工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州博博科技有限公司'], 'position_place': ['杭州', '余杭区', '金家渡']}
+{'position_salary': ['Python实习生07-01-56'], 'position_name': ['4k-5k '], 'position_conpay': ['杭州大搜车汽车服务有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['Python开发工程师（实习）'], 'position_name': ['3k-4k '], 'position_conpay': ['杭州艾锝信息技术有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['Python Web开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['嘉兴构美信息技术有限公司'], 'position_place': ['杭州', '江干区', '下沙']}
+{'position_salary': ['Python运维开发工程师'], 'position_name': ['13k-20k '], 'position_conpay': ['网易（杭州）有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['python后端'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州健阳信息科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['Python教研'], 'position_name': ['8k-13k '], 'position_conpay': ['杭州艺程科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['python开发工程师'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州嘉云数据科技有限公司'], 'position_place': ['杭州', '西湖区', '古荡']}
+{'position_salary': ['python实习生'], 'position_name': ['5k-6k '], 'position_conpay': ['杭州默安科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['Python 后端开发工程师'], 'position_name': ['8k-13k '], 'position_conpay': ['杭州巴九灵文化创意股份有限公司'], 'position_place': ['杭州', '西湖区', '北山']}
+{'position_salary': ['Python研发工程师（数据平台）'], 'position_name': ['9k-15k '], 'position_conpay': ['杭州大搜车汽车服务有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['python量化助理'], 'position_name': ['12k-24k '], 'position_conpay': ['杭州那是大克科技有限公司'], 'position_place': ['杭州', '萧山区', '宁围']}
+{'position_salary': ['Python后端开发'], 'position_name': ['10k-20k '], 'position_conpay': ['熊客云计算（上海）有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['python开发（机器学习）-杭...'], 'position_name': ['10k-20k '], 'position_conpay': ['同盾科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['python开发（机器学习方向）'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州国誉信睿企业管理咨询有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['python爬虫工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州凡闻科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['Java/Python/C++/Go-P7-阿...'], 'position_name': ['25k-45k '], 'position_conpay': ['支付宝(杭州)信息技术有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['资深cos开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['浙江企朋网络技术股份有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['C++/Go工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['芋头科技（杭州）有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['安全设计及开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['国铁吉讯科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['小程序开发工程师-杭州-00477'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州有赞科技有限公司'], 'position_place': ['杭州', '西湖区', '西湖']}
+{'position_salary': ['Python Web'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州默安科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['后端工程师—python'], 'position_name': ['10k-15k '], 'position_conpay': ['杭州巴九灵文化创意股份有限公司'], 'position_place': ['杭州', '下城区']}
+{'position_salary': ['Python研发工程师（数据平...'], 'position_name': ['11k-20k '], 'position_conpay': ['杭州大搜车汽车服务有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['JAVA/Python/C/C++/.net阿...'], 'position_name': ['25k-50k '], 'position_conpay': ['支付宝(杭州)信息技术有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['研发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州美登科技股份有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['运维开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['浙江企朋网络技术股份有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['大数据开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['浙江达摩网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['数据开发工程师'], 'position_name': ['13k-26k '], 'position_conpay': ['杭州排列科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['大数据开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州云若网络科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['数据开发工程师（外包） (MJ...'], 'position_name': ['1k-2k '], 'position_conpay': ['上海依图信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['DevOps开发工程师/专家-杭...'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州有赞科技有限公司'], 'position_place': ['杭州', '西湖区', '天目山路']}
+{'position_salary': ['后端开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州深知科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['大数据开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州亦闲信息科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['高级后端开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州嘉洁网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['数据开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['浙江远图互联科技股份有限公司'], 'position_place': ['杭州', '西湖区', '三墩']}
+{'position_salary': ['Python研发工程师（爬虫方...'], 'position_name': ['9k-15k '], 'position_conpay': ['杭州大搜车汽车服务有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['Java研发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['浙江企朋网络技术股份有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['数据技术经理 (大数据与AI部)'], 'position_name': ['20k-40k '], 'position_conpay': ['浙江执御信息技术有限公司'], 'position_place': ['杭州市市市', '拱墅区', '三墩']}
+{'position_salary': ['数据开发工程师'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州开启网络科技有限公司'], 'position_place': ['杭州', '西湖区', '古荡']}
+{'position_salary': ['高级后端开发工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州深知科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['机器学习平台开发（工程类、...'], 'position_name': ['20k-36k '], 'position_conpay': ['同盾科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['研发协作平台解决方案工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['广州云徙科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['前端开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州车厘子智能科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['ETL开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州雅拓信息技术有限公司'], 'position_place': ['杭州', '西湖区', '文二路']}
+{'position_salary': ['客户端开发工程师（广州、杭...'], 'position_name': ['15k-25k '], 'position_conpay': ['广州博冠信息科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['数据研发工程师（一）'], 'position_name': ['15k-20k '], 'position_conpay': ['浙江每日互动网络科技股份有限公司'], 'position_place': ['杭州', '西湖区', '翠苑']}
+{'position_salary': ['前端开发'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州雅观科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['数据开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州电魂网络科技股份有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['高级后台研发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['上海天壤智能科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运维开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州垂衣网络科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['芋头科技（杭州）有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['c++研发工程师(漏洞扫描方向)'], 'position_name': ['15k-20k '], 'position_conpay': ['杭州安恒信息技术股份有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['资深Devops开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州橙鹰数据技术有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['人工智能系统工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['杭州睿拓智能科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['前端工程师'], 'position_name': ['18k-25k '], 'position_conpay': ['浙江子不语电子商务有限公司'], 'position_place': ['杭州', '余杭区', '南苑']}
+{'position_salary': ['高级Java工程师'], 'position_name': ['16k-25k '], 'position_conpay': ['杭州智晗信息技术有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['云解决方案开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['广州博冠信息科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['Node.js\xa0开发工程师'], 'position_name': ['12k-20k '], 'position_conpay': ['浙江每日互动网络科技股份有限公司'], 'position_place': ['杭州', '西湖区', '古墩路']}
+{'position_salary': ['后端开发工程师'], 'position_name': ['18k-30k '], 'position_conpay': ['杭州艾耕科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['大数据平台研发工程师（杭州）'], 'position_name': ['20k-25k '], 'position_conpay': ['杭州玳数科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['大数据开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州海康威视数字技术股份有限公司'], 'position_place': ['杭州', '滨江区', '江南']}
+{'position_salary': ['资深大数据开发工程师/专家'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州橙鹰数据技术有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['后台研发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['上海天壤智能科技有限公司'], 'position_place': ['杭州', '西湖区', '西湖']}
+{'position_salary': ['C++开发工程师（直播业务）'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州顺网科技股份有限公司'], 'position_place': ['杭州', '西湖区', '西湖']}
+{'position_salary': ['大数据开发工程师'], 'position_name': ['18k-30k '], 'position_conpay': ['杭州观数信息科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['资深数据开发工程师'], 'position_name': ['13k-18k '], 'position_conpay': ['北京伊电园网络科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['Web前端开发工程师（信息技...'], 'position_name': ['12k-24k '], 'position_conpay': ['浙江浙商国际金融资产交易中心股份有限公司'], 'position_place': ['杭州', '下城区']}
+{'position_salary': ['前端开发工程师（杭州银行）'], 'position_name': ['9k-15k '], 'position_conpay': ['浙江网新恒天软件有限公司'], 'position_place': ['杭州', '拱墅区', '拱宸桥']}
+{'position_salary': ['技术架构师'], 'position_name': ['15k-30k '], 'position_conpay': ['浙江备胎网络科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['大数据分析工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['浙江达摩网络科技有限公司'], 'position_place': ['杭州', '西湖区', '文一路']}
+{'position_salary': ['应用开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州艾耕科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['数据研发工程师（新）'], 'position_name': ['12k-18k '], 'position_conpay': ['浙江每日互动网络科技股份有限公司'], 'position_place': ['杭州', '西湖区', '翠苑']}
+{'position_salary': ['引擎工具开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['广州博冠信息科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['游戏服务器开发工程师'], 'position_name': ['13k-25k '], 'position_conpay': ['杭州电魂网络科技股份有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['PHP工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州菲助科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['前端研发'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州微众电子商务有限公司'], 'position_place': ['杭州', '下沙']}
+{'position_salary': ['大数据开发工程师（杭州）'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州玳数科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['大数据工程师'], 'position_name': ['12k-20k '], 'position_conpay': ['大箴（杭州）科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['系统研发工程师'], 'position_name': ['18k-36k '], 'position_conpay': ['上海天壤智能科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['资深数据可视化研发工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州橙鹰数据技术有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['资深运维开发工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['杭州绿湾网络科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['JAVA工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['芋头科技（杭州）有限公司'], 'position_place': ['杭州', '余杭区', '西溪']}
+{'position_salary': ['前端开发工程师'], 'position_name': ['8k-12k '], 'position_conpay': ['浙江网新恒天软件有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['深资PHP开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州会搜科技有限公司'], 'position_place': ['杭州', '江干区']}
+{'position_salary': ['算法工程师'], 'position_name': ['10k-18k '], 'position_conpay': ['杭州酷汇网络技术有限公司'], 'position_place': ['杭州', '西湖区', '古墩路']}
+{'position_salary': ['高级/资深服务端开发工程...'], 'position_name': ['10k-20k '], 'position_conpay': ['广州博冠信息科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['前端研发'], 'position_name': ['30k-50k '], 'position_conpay': ['杭州微众电子商务有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['高级后台研发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['上海天壤智能科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['资深运维开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州橙鹰数据技术有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['软件开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州行芯科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['高级开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['北京八分量信息科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['高级运维&开发支持工程师'], 'position_name': ['15k-23k '], 'position_conpay': ['上海尚芸飞流信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['自动化测试开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['芋头科技（杭州）有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['资深运维研发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州观数信息科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['高级javascript工程师（3年...'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州大名软件有限公司'], 'position_place': ['杭州', '西湖区', '文三路']}
+{'position_salary': ['运维开发工程师'], 'position_name': ['8k-16k '], 'position_conpay': ['杭州冒险元素网络技术有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['安全工程师（SDL方向）（MJ00...'], 'position_name': ['15k-30k '], 'position_conpay': ['挖财网络技术有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['数据开发工程师'], 'position_name': ['25k-40k '], 'position_conpay': ['杭州呯嘭智能技术有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['数据开发工程师-P7'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州乐刻网络技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['自动化测试工程师'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州浮云网络科技有限公司'], 'position_place': ['杭州', '下城区', '朝晖']}
+{'position_salary': ['手游客户端开发工程师H52'], 'position_name': ['15k-30k '], 'position_conpay': ['广州博冠信息科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['测试工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州雅拓信息技术有限公司'], 'position_place': ['杭州', '西湖区', '文二路']}
+{'position_salary': ['运维'], 'position_name': ['8k-16k '], 'position_conpay': ['北京中电博亚科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['测试工程师'], 'position_name': ['8k-11k '], 'position_conpay': ['观澜网络（杭州）有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['数据开发工程师'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州好一库网络科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['中级测试工程师'], 'position_name': ['8k-16k '], 'position_conpay': ['浙江霖梓控股有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['测试开发专家（MJ000721）'], 'position_name': ['30k-50k '], 'position_conpay': ['挖财网络技术有限公司'], 'position_place': ['杭州', '西湖区', '高新文教区']}
+{'position_salary': ['技术经理'], 'position_name': ['25k-35k '], 'position_conpay': ['中财招商投资集团有限公司'], 'position_place': ['杭州', '滨江区', '江南']}
+{'position_salary': ['数据工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州当堂信息技术有限公司'], 'position_place': ['杭州', '拱墅区', '湖墅南路']}
+{'position_salary': ['高级算法研发工程师/专家'], 'position_name': ['25k-50k '], 'position_conpay': ['支付宝(杭州)信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['高级AI平台软件工程师-杭...'], 'position_name': ['25k-50k '], 'position_conpay': ['杭州才云科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['机器视觉开发工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['上海天壤智能科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['PHP高级开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州悠可化妆品有限公司'], 'position_place': ['杭州', '江干区', '白杨']}
+{'position_salary': ['资深测试工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州享贞信息科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['税友软件集团股份有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['开发工程师'], 'position_name': ['15k-20k '], 'position_conpay': ['杭州智趣智能信息技术有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['仿真环境开发工程师'], 'position_name': ['18k-35k '], 'position_conpay': ['杭州飞步科技有限公司'], 'position_place': ['杭州', '西湖区', '古墩路']}
+{'position_salary': ['物联网软件工程师'], 'position_name': ['10k-16k '], 'position_conpay': ['新奥阳光易采科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['高级运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['浙江钱兔网络科技有限公司'], 'position_place': ['杭州', '萧山区']}
+{'position_salary': ['数据开发工程师'], 'position_name': ['5k-10k '], 'position_conpay': ['杭州煎饼网络技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['技术专家 (MJ000187)'], 'position_name': ['20k-30k '], 'position_conpay': ['连连银通电子支付有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['数据仓库专家'], 'position_name': ['18k-25k '], 'position_conpay': ['大箴（杭州）科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['算法工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州诚智天扬科技有限公司'], 'position_place': ['杭州', '西湖区', '高新文教区']}
+{'position_salary': ['前端开发'], 'position_name': ['15k-16k '], 'position_conpay': ['杭州全速网络技术有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州涂鸦信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州乐刻网络技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['北京深睿博联科技有限责任公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['语音交互系统高级工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州哲信信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州车厘子智能科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['测试工程师'], 'position_name': ['7k-14k '], 'position_conpay': ['浙江霖梓控股有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['高级软件工程师（云平台方向）'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州才云科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['系统研发工程师'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州飞享数据技术有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['运维工程师'], 'position_name': ['7k-12k '], 'position_conpay': ['通卡联城网络科技有限公司'], 'position_place': ['杭州', '上城区', '近江']}
+{'position_salary': ['高级/资深搜索开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州布理岚柏科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['蚂蚁金服-高级安全开发工...'], 'position_name': ['30k-60k '], 'position_conpay': ['支付宝(杭州)信息技术有限公司'], 'position_place': ['杭州', '西湖区', '古荡']}
+{'position_salary': ['手动测试工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['北京闪银奇异科技有限公司'], 'position_place': ['杭州', '萧山区']}
+{'position_salary': ['测试工程师'], 'position_name': ['10k-18k '], 'position_conpay': ['武汉佰钧成技术有限责任公司'], 'position_place': ['杭州', '西湖区', '天目山路']}
+{'position_salary': ['高级算法工程师（杭州）'], 'position_name': ['20k-40k '], 'position_conpay': ['厦门美柚信息科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['自动化测试工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['浙江天垂科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['图像算法工程师（图像处理...'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州比智科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['前端开发工程师（杭州银行）'], 'position_name': ['9k-15k '], 'position_conpay': ['浙江网新恒天软件有限公司'], 'position_place': ['杭州', '拱墅区', '拱宸桥']}
+{'position_salary': ['高级算法工程师(人脸识别)'], 'position_name': ['20k-40k '], 'position_conpay': ['深圳光启超材料技术有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['国铁吉讯科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['高级运维工程师'], 'position_name': ['12k-20k '], 'position_conpay': ['税友软件集团股份有限公司'], 'position_place': ['杭州', '滨江区', '开发区']}
+{'position_salary': ['资深运维'], 'position_name': ['15k-25k '], 'position_conpay': ['北京中电博亚科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['爬虫工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['北京闪银奇异科技有限公司'], 'position_place': ['杭州', '萧山区']}
+{'position_salary': ['软件测试工程师'], 'position_name': ['10k-16k '], 'position_conpay': ['武汉佰钧成技术有限责任公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['数据分析专员'], 'position_name': ['6k-10k '], 'position_conpay': ['昆山妈妈好网络技术有限公司'], 'position_place': []}
+{'position_salary': ['高级测试工程师【杭州】'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州数澜科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['资深数据开发工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['网易（杭州）有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['测试工程师'], 'position_name': ['8k-12k '], 'position_conpay': ['杭州度言软件有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['测试工程师'], 'position_name': ['6k-12k '], 'position_conpay': ['杭州中恒云能源互联网技术有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['数据分析师'], 'position_name': ['10k-20k '], 'position_conpay': ['浙江霖梓控股有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['数据分析师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州推宝科技有限公司'], 'position_place': ['杭州', '西湖区', '高新文教区']}
+{'position_salary': ['算法工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州涂鸦信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['量化系统开发工程师'], 'position_name': ['10k-18k '], 'position_conpay': ['上海吸引子商务信息咨询有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['交付中心-JAVA开发工程师'], 'position_name': ['10k-18k '], 'position_conpay': ['北京广通信达软件股份有限公司杭州分公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['算法工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州玳数科技有限公司'], 'position_place': ['杭州市市市', '西湖区', '西溪']}
+{'position_salary': ['广告算法工程师'], 'position_name': ['40k-80k '], 'position_conpay': ['无线生活（北京）信息技术有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['测试高级工程师'], 'position_name': ['12k-20k '], 'position_conpay': ['浙江元旨科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['城市大脑交通模拟器开发工...'], 'position_name': ['18k-36k '], 'position_conpay': ['上海天壤智能科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['数据挖掘工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['杭州溜达网络科技有限公司'], 'position_place': ['杭州', '西湖区', '古墩路']}
+{'position_salary': ['应用运维工程师'], 'position_name': ['9k-18k '], 'position_conpay': ['税友软件集团股份有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['数据仓库开发实习生'], 'position_name': ['2k-3k '], 'position_conpay': ['杭州卷瓜网络有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['移动端图像算法工程师/专...'], 'position_name': ['20k-40k '], 'position_conpay': ['厦门美柚信息科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['数据分析专家'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州多准数据技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['高级测试开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州门链科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['Linux软件开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州保新科技有限公司'], 'position_place': ['杭州', '江干区', '四季青']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['浙江同牛网络科技有限公司'], 'position_place': ['杭州', '下城区', '天水']}
+{'position_salary': ['高级前端开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州武藏物联网科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['BI工程师'], 'position_name': ['12k-18k '], 'position_conpay': ['杭州红花朵朵网络技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['北京盛世创富证券投资顾问有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['测试工程师'], 'position_name': ['12k-20k '], 'position_conpay': ['杭州比智科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['深度学习算法工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州登虹科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运维开发负责人'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州垂衣网络科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['WEB前端开发/混合APP开发'], 'position_name': ['11k-20k '], 'position_conpay': ['杭州搜瓜信息科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['视频图像分析算法工程师 （...'], 'position_name': ['20k-40k '], 'position_conpay': ['厦门美柚信息科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['资深服务端研发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['浙江星飞信息技术有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['数据leader'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州弧途科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['测试'], 'position_name': ['9k-15k '], 'position_conpay': ['武汉佰钧成技术有限责任公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['算法研发实习生'], 'position_name': ['5k-6k '], 'position_conpay': ['浙江邦盛科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['深度/机器学习研究员'], 'position_name': ['20k-40k '], 'position_conpay': ['北京深睿博联科技有限责任公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['DBA（MySQL方向）'], 'position_name': ['20k-30k '], 'position_conpay': ['税友软件集团股份有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['高级前端开发工程师/专家'], 'position_name': ['20k-40k '], 'position_conpay': ['淘宝（中国）软件有限公司'], 'position_place': ['杭州', '余杭区', '临平']}
+{'position_salary': ['后端工程师（杭州）'], 'position_name': ['10k-20k '], 'position_conpay': ['广州奇志信息科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运营支撑'], 'position_name': ['5k-10k '], 'position_conpay': ['杭州魔蝎数据科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['算法工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['上海天壤智能科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['算法工程师'], 'position_name': ['25k-50k '], 'position_conpay': ['苏州融畅软件科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['杭州证客信息科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['供应链产品经理'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州垂衣网络科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['算法工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['浙江蜂泰科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['淘宝新制造-测试开发工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['淘宝（中国）软件有限公司'], 'position_place': ['杭州', '余杭区', '临平']}
+{'position_salary': ['爬虫工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['杭州溜达网络科技有限公司'], 'position_place': ['杭州', '西湖区', '古墩路']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州乐刻网络技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['数据开发工程师'], 'position_name': ['2k-3k '], 'position_conpay': ['杭州煎饼网络技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['蚂蚁金服-技术风险研发/架...'], 'position_name': ['30k-60k '], 'position_conpay': ['支付宝(杭州)信息技术有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['软件测试（外派网易）'], 'position_name': ['8k-10k '], 'position_conpay': ['杭州丈浔科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['C++研发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['北京数美时代科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['高级测试工程师'], 'position_name': ['13k-25k '], 'position_conpay': ['浙江孚临科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['算法工程师（NLP方向）'], 'position_name': ['25k-50k '], 'position_conpay': ['杭州比智科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['安全开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['北京金海群英网络信息技术有限公司'], 'position_place': ['杭州', '下城区', '东新路']}
+{'position_salary': ['FPGA优化研发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州保新科技有限公司'], 'position_place': ['杭州', '江干区', '四季青']}
+{'position_salary': ['数据研发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['观澜网络（杭州）有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['系统测试工程师／专家'], 'position_name': ['15k-25k '], 'position_conpay': ['芋头科技（杭州）有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['高级测试工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['浙江孚临科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['高级前端开发工程师'], 'position_name': ['15k-26k '], 'position_conpay': ['杭州涂鸦信息技术有限公司'], 'position_place': ['杭州', '西湖区', '古墩路']}
+{'position_salary': ['游戏测试工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州游卡网络技术有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['高级/资深数据开发工程师'], 'position_name': ['25k-40k '], 'position_conpay': ['网易（杭州）有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['测试工程师'], 'position_name': ['9k-14k '], 'position_conpay': ['武汉佰钧成技术有限责任公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['高级运维工程师（运维中心）'], 'position_name': ['12k-24k '], 'position_conpay': ['杭州华卓信息科技有限公司'], 'position_place': ['杭州', '下城区', '东新路']}
+{'position_salary': ['C++开发工程师'], 'position_name': ['15k-28k '], 'position_conpay': ['浙江阿拉丁控股集团有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['运维架构师'], 'position_name': ['20k-40k '], 'position_conpay': ['税友软件集团股份有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['算法系统/平台工程师'], 'position_name': ['25k-40k '], 'position_conpay': ['杭州艾耕科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['高级（资深）系统软件工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['浙江齐治科技股份有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['运维工程师'], 'position_name': ['7K-12K '], 'position_conpay': ['浙江达摩网络科技有限公司'], 'position_place': ['杭州', '西湖区', '文一路']}
+{'position_salary': ['资深风控建模师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州排列科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['数据运营'], 'position_name': ['10k-18k '], 'position_conpay': ['杭州深知科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['资深测试工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州店家科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['运维工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州逗哈快猪电动车租赁有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州四喜信息技术有限公司'], 'position_place': ['杭州', '西湖区', '三墩']}
+{'position_salary': ['DBA'], 'position_name': ['18k-25k '], 'position_conpay': ['杭州云若网络科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['C++开发'], 'position_name': ['8k-15k '], 'position_conpay': ['北京通力互联技术服务有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['算法工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['北京数美时代科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['人工智能实习生'], 'position_name': ['3k-6k '], 'position_conpay': ['杭州智团信息技术有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['资深前端开发工程师'], 'position_name': ['15k-22k '], 'position_conpay': ['杭州好一库网络科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['高级运维工程师'], 'position_name': ['15k-20k '], 'position_conpay': ['杭州孚嘉科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['服务端测试开发'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州腾展科技股份有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['大数据开发工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州米雅信息科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['资深测试工程师'], 'position_name': ['13k-20k '], 'position_conpay': ['政采云有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['资深测试工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州店家科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['软件测试工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['浙江众匠信息技术有限公司'], 'position_place': ['杭州', '江干区']}
+{'position_salary': ['AI算法工程师'], 'position_name': ['25k-40k '], 'position_conpay': ['杭州涂鸦信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['Go开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州保新科技有限公司'], 'position_place': ['杭州', '江干区', '四季青']}
+{'position_salary': ['高级大数据工程师'], 'position_name': ['20K-30K '], 'position_conpay': ['浙江达摩网络科技有限公司'], 'position_place': ['杭州', '西湖区', '文一路']}
+{'position_salary': ['资深风控建模'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州讯文电子商务有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['爬虫工程师'], 'position_name': ['18k-25k '], 'position_conpay': ['浙江盘石信息技术股份有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['算法优化'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州登虹科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['数据工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州腾展科技股份有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州树熊云计算科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['测试开发工程师-P6'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州乐刻网络技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['基础平台软件开发工程师'], 'position_name': ['6k-12k '], 'position_conpay': ['浙江大学'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['高级Java开发工程师'], 'position_name': ['10k-18k '], 'position_conpay': ['上海首格网络科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['北京旷视科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['资深游戏技术美术工程师'], 'position_name': ['25k-50k '], 'position_conpay': ['网易（杭州）有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['高级运维开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州艾耕科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['机器学习工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['杭州睿拓智能科技有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['风控建模师'], 'position_name': ['25k-50k '], 'position_conpay': ['杭州中漾电子商务有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['运维工程师-BTBX26'], 'position_name': ['12k-24k '], 'position_conpay': ['浙江备胎网络科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['大数据平台架构师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州登虹科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['数据分析师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州中漾电子商务有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['大数据平台架构师【杭州】'], 'position_name': ['20k-35k '], 'position_conpay': ['杭州数澜科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['安全专家（SDL方向）'], 'position_name': ['25k-35k '], 'position_conpay': ['挖财网络技术有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['高级测试开发工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['菜鸟网络科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['机器学习平台研发工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['网易（杭州）有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['自然语言处理工程师'], 'position_name': ['18k-35k '], 'position_conpay': ['共道网络科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['语音评测算法专家'], 'position_name': ['25k-30k '], 'position_conpay': ['杭州菲助科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['数据仓库工程师-杭州-00347'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州智聪网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['算法工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['北京数美时代科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['Golang服务端高级开发工程师'], 'position_name': ['18k-28k '], 'position_conpay': ['杭州一禾信息科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['云计算研发工程师'], 'position_name': ['20k-38k '], 'position_conpay': ['同盾科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['高级安全开发工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州孝道科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['高级运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['税友软件集团股份有限公司'], 'position_place': ['杭州', '滨江区', '开发区']}
+{'position_salary': ['软件测试工程师'], 'position_name': ['12k-24k '], 'position_conpay': ['微点（杭州）网络科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['高级 Python 爬虫工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州艾耕科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['AI知识库开发工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州之遇科技有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['Go测试开发工程师（层底技...'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州有赞科技有限公司'], 'position_place': ['杭州', '西湖区', '天目山路']}
+{'position_salary': ['运维开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州恩牛网络技术有限公司'], 'position_place': ['杭州市', '西湖区', '西溪']}
+{'position_salary': ['大数据开发工程师'], 'position_name': ['18k-35k '], 'position_conpay': ['杭银消费金融股份有限公司'], 'position_place': ['杭州', '下城区']}
+{'position_salary': ['技术支持'], 'position_name': ['5k-10k '], 'position_conpay': ['杭州魔蝎数据科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['大数据平台研发工程师【杭州】'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州数澜科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['技术经理'], 'position_name': ['20k-40k '], 'position_conpay': ['浙江企朋网络技术股份有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运维开发工程师-杭州-00029'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州有赞科技有限公司'], 'position_place': []}
+{'position_salary': ['java开发工程师'], 'position_name': ['11k-22k '], 'position_conpay': ['浙江小泰科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['运维开发工程师'], 'position_name': ['7k-14k '], 'position_conpay': ['杭州车厘子智能科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['C++'], 'position_name': ['10k-20k '], 'position_conpay': ['浙江甬润科技有限公司'], 'position_place': ['杭州', '西湖区', '古荡']}
+{'position_salary': ['技术支持工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州尚尚签网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['Node.js'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州云若网络科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['9k-18k '], 'position_conpay': ['杭州中恒云能源互联网技术有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['Java开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['浙江霖梓控股有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['云平台网络研发工程师-00048'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州才云科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['Golang开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州深知科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['10k-18k '], 'position_conpay': ['杭州大名软件有限公司'], 'position_place': ['杭州', '西湖区', '文三路']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['上海依图信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['7k-14k '], 'position_conpay': ['杭州趣维科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['前端工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州美登科技股份有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['高级前端开发工程师'], 'position_name': ['14k-24k '], 'position_conpay': ['杭州车厘子智能科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['高级JAVA工程师'], 'position_name': ['11k-22k '], 'position_conpay': ['浙江小泰科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['大数据平台开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州微财网络科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['中级Java开发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['浙江霖梓控股有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['大数据开发工程师（Hive）'], 'position_name': ['28k-35k '], 'position_conpay': ['杭州恩牛网络技术有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['测试开发工程师（医疗方向）...'], 'position_name': ['15k-30k '], 'position_conpay': ['上海依图信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['CDN开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['国铁吉讯科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['前端工程师'], 'position_name': ['18k-36k '], 'position_conpay': ['浙江新再灵科技股份有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['算法工程师'], 'position_name': ['25k-50k '], 'position_conpay': ['杭州蜂融网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['C++开发工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['宁波工业互联网研究院有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['技术支持经理'], 'position_name': ['18k-25k '], 'position_conpay': ['杭州尚尚签网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['全栈开发工程师'], 'position_name': ['25k-45k '], 'position_conpay': ['杭州之遇科技有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['高级c++开发工程师'], 'position_name': ['12k-24k '], 'position_conpay': ['杭州腾展科技股份有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['C++开发工程师'], 'position_name': ['9k-15k '], 'position_conpay': ['杭州睿琪软件有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['运维开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州比智科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['中/高级Java开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['浙江霖梓控股有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['Java开发工程师（监控平台）'], 'position_name': ['18k-30k '], 'position_conpay': ['杭州恩牛网络技术有限公司'], 'position_place': ['杭州市市市', '西湖区', '西溪']}
+{'position_salary': ['AI工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州尚尚签网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['高级PHP 开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州嘉洁网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['ETL开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州趣维科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['算法工程师'], 'position_name': ['16k-30k '], 'position_conpay': ['重庆紫光华山智安科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['服务端开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州边锋网络技术有限公司'], 'position_place': ['杭州', '西湖区', '翠苑']}
+{'position_salary': ['测试开发高级工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['国铁吉讯科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['系统研发工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['上海天壤智能科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['Web前端工程师（医疗方向）-...'], 'position_name': ['15k-30k '], 'position_conpay': ['上海依图信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['前端开发工程师'], 'position_name': ['13k-25k '], 'position_conpay': ['浙江孚临科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['运维开发工程师 (MJ000009)'], 'position_name': ['16k-22k '], 'position_conpay': ['政采云有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['软件测试开发工程师'], 'position_name': ['8k-16k '], 'position_conpay': ['杭州腾展科技股份有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['Java开发工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['浙江创邻科技有限公司'], 'position_place': ['杭州', '西湖区', '三墩']}
+{'position_salary': ['机器学习及算法工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州哲信信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['算法工程师'], 'position_name': ['25k-35k '], 'position_conpay': ['杭州恩牛网络技术有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['资深java开发工程师'], 'position_name': ['18k-30k '], 'position_conpay': ['浙江霖梓控股有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['前端开发工程师'], 'position_name': ['15k-20k '], 'position_conpay': ['浙江孚临科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['高级运维开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['校宝在线（杭州）科技股份有限公司'], 'position_place': ['杭州', '西湖区', '文三路']}
+{'position_salary': ['未来酒店-前端开发'], 'position_name': ['10k-15k '], 'position_conpay': ['浙江未来酒店网络技术有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['资深PHP研发工程师 (MJ000...'], 'position_name': ['15k-28k '], 'position_conpay': ['杭州垂衣网络科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['前端开发'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州牛邦科技有限公司'], 'position_place': ['杭州', '拱墅区', '古墩路']}
+{'position_salary': ['前端开发工程师（架构方向）'], 'position_name': ['25k-35k '], 'position_conpay': ['杭州趣维科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['高级前端开发工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['杭州腾展科技股份有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['资深测试开发工程师／测试专家'], 'position_name': ['15k-25k '], 'position_conpay': ['芋头科技（杭州）有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['大数据分析工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['杭州云屏科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['前端工程师'], 'position_name': ['18k-36k '], 'position_conpay': ['浙江新再灵科技股份有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['算法工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州魔蝎数据科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['Java工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州之遇科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['高级java开发-数据库底层（I）'], 'position_name': ['15k-30k '], 'position_conpay': ['浙江创邻科技有限公司'], 'position_place': ['杭州', '西湖区', '三墩']}
+{'position_salary': ['资深爬虫开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州趣维科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['资深测试开发工程师'], 'position_name': ['25k-35k '], 'position_conpay': ['浙江孚临科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['C++'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州牛邦科技有限公司'], 'position_place': ['杭州', '拱墅区', '古墩路']}
+{'position_salary': ['高级java开发-分布式系统'], 'position_name': ['15k-30k '], 'position_conpay': ['浙江创邻科技有限公司'], 'position_place': ['杭州', '西湖区', '三墩']}
+{'position_salary': ['前端开发工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['杭州睿拓智能科技有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['技术总监（工业大数据）'], 'position_name': ['20k-30k '], 'position_conpay': ['浙江鸿程计算机系统有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['大数据运维开发工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州之遇科技有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['数据挖掘工程师/算法工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州光云科技股份有限公司'], 'position_place': ['杭州', '滨江区', '江南']}
+{'position_salary': ['Go后端开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州壹星网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['高德-在线服务开发技术专家'], 'position_name': ['25k-50k '], 'position_conpay': ['高德软件有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['算法工程师'], 'position_name': ['25k-40k '], 'position_conpay': ['杭州蜂融网络科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['建模工程师'], 'position_name': ['12k-24k '], 'position_conpay': ['杭州七创科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['go后端开发'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州老爸评测科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['数据研发工程师'], 'position_name': ['12k-18k '], 'position_conpay': ['浙江每日互动网络科技股份有限公司'], 'position_place': ['杭州', '西湖区', '古墩路']}
+{'position_salary': ['课程开发 (研发/编码)'], 'position_name': ['10k-20k '], 'position_conpay': ['上海日泽信息科技有限公司'], 'position_place': ['杭州', '江干区']}
+{'position_salary': ['资深测试开发工程师'], 'position_name': ['20k-25k '], 'position_conpay': ['浙江孚临科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['高级java开发-数据库底层（II）'], 'position_name': ['25k-40k '], 'position_conpay': ['浙江创邻科技有限公司'], 'position_place': ['杭州', '西湖区', '三墩']}
+{'position_salary': ['后端go开发工程师'], 'position_name': ['16k-32k '], 'position_conpay': ['杭州壹星网络科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['资深PHP开发工程师'], 'position_name': ['12k-24k '], 'position_conpay': ['杭州垂衣网络科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['儿童教育类游戏 - Unity3D...'], 'position_name': ['15k-30k '], 'position_conpay': ['广州博冠信息科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['高级前端开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州玳数科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['大数据工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州尚尚签网络科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['数据工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['浙江天垂科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['后端开发工程师'], 'position_name': ['20k-35k '], 'position_conpay': ['杭州微云品牌管理有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['测试工程师'], 'position_name': ['10k-15k '], 'position_conpay': ['杭州国辰机器人科技有限公司'], 'position_place': ['杭州', '萧山区', '建设一路']}
+{'position_salary': ['资深数据开发工程师'], 'position_name': ['25k-35k '], 'position_conpay': ['网易（杭州）有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['运维工程师 (MJ000790)'], 'position_name': ['7k-14k '], 'position_conpay': ['上海依图信息技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['软件测试工程师'], 'position_name': ['8k-12k '], 'position_conpay': ['浙江霖梓控股有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['服务器/客户端开发工程师'], 'position_name': ['8k-11k '], 'position_conpay': ['杭州电魂网络科技股份有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['Unity3D开发工程师(儿童教...'], 'position_name': ['15k-30k '], 'position_conpay': ['广州博冠信息科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['运维工程师'], 'position_name': ['6k-10k '], 'position_conpay': ['通卡联城网络科技有限公司'], 'position_place': ['杭州', '上城区', '近江']}
+{'position_salary': ['2019届校招-测试开发'], 'position_name': ['15k-25k '], 'position_conpay': ['点我达网络科技有限公司'], 'position_place': ['杭州', '下城区', '东新路']}
+{'position_salary': ['高级后端开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州保新科技有限公司'], 'position_place': ['杭州', '江干区', '四季青']}
+{'position_salary': ['资深测试工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['杭州店家科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州格像科技有限公司'], 'position_place': ['杭州', '西湖区', '文三路']}
+{'position_salary': ['图像算法工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州智团信息技术有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['大数据工程师 (MJ000036)'], 'position_name': ['13k-26k '], 'position_conpay': ['杭州垂衣网络科技有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['风控建模工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州魔蝎数据科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州藤木网络科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['资深测试工程师'], 'position_name': ['18k-25k '], 'position_conpay': ['杭州弧途科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['数据科学家/机器学习工程师'], 'position_name': ['25k-50k '], 'position_conpay': ['浙江天垂科技有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['cocos2d开发工程师（提审方向）'], 'position_name': ['13k-25k '], 'position_conpay': ['杭州边锋网络技术有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['游戏开发工程师（工具开发...'], 'position_name': ['15k-30k '], 'position_conpay': ['广州博冠信息科技有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['高级测试工程师【杭州】'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州数澜科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['测试工程师 （XHX）'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州铭师堂教育科技发展有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['深度学习算法工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['杭州智团信息技术有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['数据研发专家'], 'position_name': ['18k-25k '], 'position_conpay': ['大箴（杭州）科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['技术经理'], 'position_name': ['18k-25k '], 'position_conpay': ['杭州岳纳姗网络科技有限公司'], 'position_place': ['杭州', '拱墅区', '小河']}
+{'position_salary': ['安全工程师'], 'position_name': ['12k-20k '], 'position_conpay': ['税友软件集团股份有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['后端研发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州艾耕科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['运维工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州格像科技有限公司'], 'position_place': ['杭州', '西湖区', '文三路']}
+{'position_salary': ['模型算法工程师-BTXY09'], 'position_name': ['20k-40k '], 'position_conpay': ['浙江备胎网络科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['大数据开发工程师'], 'position_name': ['15k-25k '], 'position_conpay': ['浙江保融科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['技术总监'], 'position_name': ['20k-36k '], 'position_conpay': ['工信信至尚（浙江）企业征信服务有限公司'], 'position_place': ['杭州', '萧山区', '宁围']}
+{'position_salary': ['算法工程师'], 'position_name': ['20k-40k '], 'position_conpay': ['苏州融畅软件科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['测试开发工程师'], 'position_name': ['9k-15k '], 'position_conpay': ['杭州首展科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['区块链开发工程师'], 'position_name': ['30k-60k '], 'position_conpay': ['杭州时戳信息科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['大数据运维工程师【杭州】'], 'position_name': ['10k-20k '], 'position_conpay': ['杭州数澜科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['算法模型专家'], 'position_name': ['18k-25k '], 'position_conpay': ['大箴（杭州）科技有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['运维开发'], 'position_name': ['9k-18k '], 'position_conpay': ['税友软件集团股份有限公司'], 'position_place': ['杭州市市市', '滨江区', '浦沿']}
+{'position_salary': ['运维开发工程师（DEVOPS）'], 'position_name': ['25k-35k '], 'position_conpay': ['杭州呯嘭智能技术有限公司'], 'position_place': ['杭州', '滨江区', '西兴']}
+{'position_salary': ['高级建模专家'], 'position_name': ['25k-50k '], 'position_conpay': ['杭州蜂融网络科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['安全开发工程师'], 'position_name': ['13k-25k '], 'position_conpay': ['杭州铜板街互联网金融信息服务有限公司'], 'position_place': ['杭州', '西湖区', '文三路']}
+{'position_salary': ['人工智能算法工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州能欣投资有限公司'], 'position_place': ['杭州', '江干区']}
+{'position_salary': ['分布式系统研发工程师'], 'position_name': ['10k-20k '], 'position_conpay': ['北京八分量信息科技有限公司'], 'position_place': ['杭州', '余杭区']}
+{'position_salary': ['机器学习算法工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['杭州智团信息技术有限公司'], 'position_place': ['杭州', '滨江区', '江南']}
+{'position_salary': ['测试工程师'], 'position_name': ['8k-16k '], 'position_conpay': ['杭州有步信息技术有限公司'], 'position_place': ['杭州', '拱墅区']}
+{'position_salary': ['炼化装置模型开发工程师职位'], 'position_name': ['12k-18k '], 'position_conpay': ['杭州辛孚能源科技有限公司'], 'position_place': ['杭州', '滨江区', '浦沿']}
+{'position_salary': ['图像算法工程师'], 'position_name': ['12k-18k '], 'position_conpay': ['杭州华卓信息科技有限公司'], 'position_place': ['杭州', '下城区', '东新路']}
+{'position_salary': ['推荐算法工程师'], 'position_name': ['30k-40k '], 'position_conpay': ['厦门美柚信息科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['资深数据开发工程师'], 'position_name': ['15k-30k '], 'position_conpay': ['网易（杭州）有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['深度学习算法工程师'], 'position_name': ['12k-16k '], 'position_conpay': ['睿魔智能科技（深圳）有限公司'], 'position_place': ['杭州', '西湖区', '三墩']}
+{'position_salary': ['PHP实习生'], 'position_name': ['3k-5k '], 'position_conpay': ['观澜网络（杭州）有限公司'], 'position_place': ['杭州', '滨江区']}
+{'position_salary': ['BI工程师'], 'position_name': ['8k-15k '], 'position_conpay': ['杭州淘粉吧网络技术股份有限公司'], 'position_place': ['杭州', '西湖区', '翠苑']}
+{'position_salary': ['数据分析专家'], 'position_name': ['15k-25k '], 'position_conpay': ['浙江蔚游网络技术有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['数据分析师'], 'position_name': ['10K-20K '], 'position_conpay': ['杭州惠借科技有限公司'], 'position_place': ['杭州', '西湖区', '西溪']}
+{'position_salary': ['资深算法工程师'], 'position_name': ['25k-50k '], 'position_conpay': ['杭州艾耕科技有限公司'], 'position_place': ['杭州', '西湖区']}
+{'position_salary': ['高级安全专家'], 'position_name': ['25k-43k '], 'position_conpay': ['共道网络科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
+{'position_salary': ['资深技术美术(TA)'], 'position_name': ['12k-24k '], 'position_conpay': ['泥巴娱乐（苏州）有限公司'], 'position_place': ['杭州', '滨江区', '长河']}
+{'position_salary': ['golang工程师'], 'position_name': ['20k-30k '], 'position_conpay': ['杭州微拍堂文化创意有限公司'], 'position_place': ['杭州', '西湖区', '西湖']}
+{'position_salary': ['java开发工程师'], 'position_name': ['14k-28k '], 'position_conpay': ['杭州观数信息科技有限公司'], 'position_place': ['杭州', '余杭区', '仓前']}
